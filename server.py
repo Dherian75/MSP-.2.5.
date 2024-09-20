@@ -28,7 +28,8 @@ def download_latest_release(download_path='.'):
 			os.system("rm *.msp")
 			print("Actualizando tu versión de MSP...")
 			time.sleep(1.5)
-		pathto = os.path.join(download_path, version)
+		pathto = os.path.join(download_path, version)/execute in minecraft:the_nether run tp [jugador] [x] [y] [z]
+
 		with open(pathto, 'wb') as archivo:
 			archivo.write(requests.get(url).content)
 		return version

@@ -1,0 +1,17 @@
+{
+	id: "33437799-5100-33ef-94c3-75005ddbe3e7"
+	type: "player"
+	player_name: "DANNY95EC"
+	ranks: {
+		33437799-5100-33ef-94c3-75005ddbe3e7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DANNY95EC"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "ac4d861b-8149-47dd-b4ac-81eba546fa3e"
+	type: "party"
+	owner: "3d07aae0-113c-3a48-a9f7-a795e38a83ca"
+	ranks: {
+		3d07aae0-113c-3a48-a9f7-a795e38a83ca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dherian75's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1726622567291L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Dherian75\"}]}" }]
+	extra: { }
+}

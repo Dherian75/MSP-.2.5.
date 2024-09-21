@@ -1,0 +1,12 @@
+{
+  "singleplayer": {
+    "SPORE": true
+  },
+  "multiplayer": {
+    "3d07aae0-113c-3a48-a9f7-a795e38a83ca": true,
+    "33437799-5100-33ef-94c3-75005ddbe3e7": true,
+    "bce5a83a-8614-3e98-b636-aa1eaf211f24": true,
+    "bcba8cfe-7142-41d1-9ab1-1d43cad49d19": true,
+    "ccad20ba-4bfd-3524-90ef-a8ba5c24c9db": true
+  }
+}

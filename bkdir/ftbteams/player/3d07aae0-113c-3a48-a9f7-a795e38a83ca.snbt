@@ -1,0 +1,15 @@
+{
+	id: "3d07aae0-113c-3a48-a9f7-a795e38a83ca"
+	type: "player"
+	player_name: "Dherian75"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Dherian75"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

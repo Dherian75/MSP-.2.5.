@@ -1,0 +1,17 @@
+{
+	id: "ccad20ba-4bfd-3524-90ef-a8ba5c24c9db"
+	type: "player"
+	player_name: "Axba95"
+	ranks: {
+		ccad20ba-4bfd-3524-90ef-a8ba5c24c9db: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Axba95"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
